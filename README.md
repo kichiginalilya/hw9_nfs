@@ -1,0 +1,1 @@
+Vagrant стенд для NFS
